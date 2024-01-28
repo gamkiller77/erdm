@@ -1,0 +1,88 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/include",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/src",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/PID",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/Encoder",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/Encoder/utility",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/U8g2/src",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/DHT sensor library",
+                "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/Adafruit Unified Sensor",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "/Users/mannygar/.platformio/lib/Adafruit NeoPixel",
+                "/Users/mannygar/.platformio/lib/Adafruit PWM Servo Driver Library",
+                "/Users/mannygar/.platformio/lib/AltSoftSerial",
+                "/Users/mannygar/.platformio/lib/ArduinoLog",
+                "/Users/mannygar/.platformio/lib/I2Cdevlib-Core",
+                "/Users/mannygar/.platformio/lib/LedControl/src",
+                "/Users/mannygar/.platformio/lib/MPU6050/src",
+                "/Users/mannygar/.platformio/lib/SerialCommands/src",
+                "/Users/mannygar/.platformio/lib/TM1637",
+                "/Users/mannygar/.platformio/lib/USB-Host-Shield-20",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/include",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/src",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/PID",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/Encoder",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/Encoder/utility",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/U8g2/src",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/DHT sensor library",
+                    "/Users/mannygar/Documents/PlatformIO/Projects/erdm/.pio/libdeps/nanoatmega328new/Adafruit Unified Sensor",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "/Users/mannygar/.platformio/lib/Adafruit NeoPixel",
+                    "/Users/mannygar/.platformio/lib/Adafruit PWM Servo Driver Library",
+                    "/Users/mannygar/.platformio/lib/AltSoftSerial",
+                    "/Users/mannygar/.platformio/lib/ArduinoLog",
+                    "/Users/mannygar/.platformio/lib/I2Cdevlib-Core",
+                    "/Users/mannygar/.platformio/lib/LedControl/src",
+                    "/Users/mannygar/.platformio/lib/MPU6050/src",
+                    "/Users/mannygar/.platformio/lib/SerialCommands/src",
+                    "/Users/mannygar/.platformio/lib/TM1637",
+                    "/Users/mannygar/.platformio/lib/USB-Host-Shield-20",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/Users/mannygar/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60113",
+                "ARDUINO_AVR_NANO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/Users/mannygar/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
